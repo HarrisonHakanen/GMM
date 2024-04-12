@@ -1,0 +1,6 @@
+﻿  GMM.cpp
+C:\Users\harri\Documents\Visual studio projects\GMM\GMM\GMM.cpp(67,20): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\harri\Documents\Visual studio projects\GMM\GMM\GMM.cpp(68,23): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\harri\Documents\Visual studio projects\GMM\GMM\GMM.cpp(70,33): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\harri\Documents\Visual studio projects\GMM\GMM\GMM.cpp(71,36): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+  GMM.vcxproj -> C:\Users\harri\Documents\Visual studio projects\GMM\x64\Debug\GMM.exe
